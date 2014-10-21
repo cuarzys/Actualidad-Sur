@@ -64,7 +64,7 @@
     <gap:splash src="res/screen/android/screen-hdpi-portrait.png"  gap:platform="android" gap:density="hdpi" />
     <gap:splash src="res/screen/android/screen-xhdpi-portrait.png" gap:platform="android" gap:density="xhdpi" />
 
-    <icon src="res/icon/icono.png" />
+    <icon src="icon.png" />
 
     <content src="index.html" />
     <access origin="*" subdomains="true" />
